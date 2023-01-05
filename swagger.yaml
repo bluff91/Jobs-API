@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-- url: https://myapi-s0xb.onrender.com/api/v1
+- url: https://my-api-ob2y.onrender.com/api/v1
   variables: {}
 paths:
   /auth/login:

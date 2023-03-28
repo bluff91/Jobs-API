@@ -1,4 +1,4 @@
-Jobs API project made in Node.Js using Express and MongoDB with user registration and authentification deployed on Render https://https://my-api-ob2y.onrender.com/api-docs
+Jobs API project made in Node.Js using Express and MongoDB with user registration and authentification deployed on Render https://my-api-ob2y.onrender.com/api-docs
 
 Key Features:
 
